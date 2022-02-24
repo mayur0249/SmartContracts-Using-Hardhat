@@ -23,4 +23,4 @@ deploy()
     process.exit(1);
   });
 
-// Deployed Contract Address on Rinkeby Test Network: 0xf0a3f150Dd523E4426d0f4A02ACea3Cb8A03591b
+// Deployed Contract Address on Rinkeby Test Network: 0x069b841E2C06d4eb4299BF98d27fc32f17fb23A6
