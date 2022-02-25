@@ -1,8 +1,6 @@
 const { ethers } = require("hardhat");
 
 const deploy = async () => {
-  const [deployer] = await ethers.getSigners();
-
   const MultiSigWallet = await ethers.getContractFactory("MultiSigWallet");
 
   const MultiSigWalletInstance = await MultiSigWallet.deploy(

@@ -17,3 +17,9 @@
 - The smart contract is deployed and verified using hardhat on Rinkeby test network
 - Deployed Smart Contract Addresss : 0x9533bEb51C5E1e9E31E600ACD5ba6824af0a58EF
 - View the deployed smart contract on etherscan through this link : [Click here](https://rinkeby.etherscan.io/address/0x9533bEb51C5E1e9E31E600ACD5ba6824af0a58EF)
+
+## 4. ERC721 Token
+
+- The smart contract is deployed and verified using hardhat on Rinkeby test network
+- Deployed Smart Contract Addresss : 0xF75a4E6409A952D1544Bccb4b4a4D2E07703d5DD
+- View the deployed smart contract on etherscan through this link : [Click here](https://rinkeby.etherscan.io/address/0xF75a4E6409A952D1544Bccb4b4a4D2E07703d5DD)

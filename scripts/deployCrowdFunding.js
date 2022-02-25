@@ -1,8 +1,6 @@
 const { ethers } = require("hardhat");
 
 const deploy = async () => {
-  const [deployer] = await ethers.getSigners();
-
   const crowdFunding = await ethers.getContractFactory("CrowdFunding");
 
   const crowdFundingInstance = await crowdFunding.deploy(

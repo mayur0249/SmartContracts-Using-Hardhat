@@ -1,8 +1,6 @@
 const { ethers } = require("hardhat");
 
 const deploy = async () => {
-  const [deployer] = await ethers.getSigners();
-
   const Token = await ethers.getContractFactory("Token");
 
   const token = await Token.deploy();
